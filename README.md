@@ -1,4 +1,4 @@
-### o
+### Sage Payment solutions
 ---
 
 
